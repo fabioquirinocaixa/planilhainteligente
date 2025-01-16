@@ -24,4 +24,4 @@ Conteúdo gerado via ChatGPT
 
 📚 Materiais
 
-planilha feita no Excel em output
+planilha feita no Excel 
